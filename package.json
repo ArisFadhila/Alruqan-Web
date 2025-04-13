@@ -1,5 +1,5 @@
 {
-  "homepage": "https://suwantosanjaya.github.io/my-quran",
+  "homepage": "https://ArisFadhila.github.io/Alruqan-Web",
   "name": "my-quran",
   "private": true,
   "version": "1.0.0",
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.13",
-    "bootstrap": "^5.3.3",
+    "bootstrap": "^5.3.5",
     "bootstrap-icons": "^1.11.3",
     "html-react-parser": "^5.2.2",
     "react": "^19.0.0",
